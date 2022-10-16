@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FDF7A6&height=300&section=header&text=Welcome&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F3F781&height=300&section=header&text=Welcome%20to%20My%20Github&fontSize=70&fontColor=FFC41E)
 
 ![JuEun's github stats](https://github-readme-stats.vercel.app/api?username=MelBIP&show_icons=true&theme=buefy) ![JuEun's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MelBIP&layout=compact)
 ## 🐿 ️Me ️🐿
